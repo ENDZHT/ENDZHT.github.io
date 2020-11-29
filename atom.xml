@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ENDZHT</title>
+  
+  <subtitle>sec</subtitle>
+  <link href="https://endzht.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://endzht.github.io/"/>
+  <updated>2020-11-29T13:24:37.480Z</updated>
+  <id>https://endzht.github.io/</id>
+  
+  <author>
+    <name>ENDZHT</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>mysql</title>
+    <link href="https://endzht.github.io/2020/11/29/mysql/"/>
+    <id>https://endzht.github.io/2020/11/29/mysql/</id>
+    <published>2020-11-29T13:21:50.000Z</published>
+    <updated>2020-11-29T13:24:37.480Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;pre class=&quot;line-numbers language-mysql&quot; data-language=&quot;mysql&quot;&gt;&lt;code class=&quot;language-mysql&quot;&gt;ALTER {DATABASE | SCHEMA} [db_name]
+   </summary>
+        
+      
+    
+    
+    
+    
+    <category term="sql mysql" scheme="https://endzht.github.io/tags/sql-mysql/"/>
+    
+  </entry>
+  
+</feed>

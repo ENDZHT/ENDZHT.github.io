@@ -2,6 +2,25 @@
 <search> 
   
   
+    
+    <entry>
+      <title>mysql</title>
+      <link href="2020/11/29/mysql/"/>
+      <url>2020/11/29/mysql/</url>
+      
+        <content type="html"><![CDATA[<pre class="line-numbers language-mysql" data-language="mysql"><code class="language-mysql">ALTER {DATABASE | SCHEMA} [db_name]    alter_specification [, alter_specification] ...alter_specification:    [DEFAULT] CHARACTER SET charset_name  | [DEFAULT] COLLATE collation_name<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> sql mysql </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
 </search>
