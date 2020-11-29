@@ -8,13 +8,15 @@
       <link href="2020/11/29/mysql/"/>
       <url>2020/11/29/mysql/</url>
       
-        <content type="html"><![CDATA[<pre class="line-numbers language-mysql" data-language="mysql"><code class="language-mysql">ALTER {DATABASE | SCHEMA} [db_name]    alter_specification [, alter_specification] ...alter_specification:    [DEFAULT] CHARACTER SET charset_name  | [DEFAULT] COLLATE collation_name<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
+        <content type="html"><![CDATA[<pre class="line-numbers language-sql" data-language="sql"><code class="language-sql"><span class="token keyword">ALTER</span> {<span class="token keyword">DATABASE</span> <span class="token operator">|</span> <span class="token keyword">SCHEMA</span>} <span class="token punctuation">[</span>db_name<span class="token punctuation">]</span>    alter_specification <span class="token punctuation">[</span><span class="token punctuation">,</span> alter_specification<span class="token punctuation">]</span> <span class="token punctuation">.</span><span class="token punctuation">.</span><span class="token punctuation">.</span>alter_specification:    <span class="token punctuation">[</span><span class="token keyword">DEFAULT</span><span class="token punctuation">]</span> <span class="token keyword">CHARACTER</span> <span class="token keyword">SET</span> charset_name  <span class="token operator">|</span> <span class="token punctuation">[</span><span class="token keyword">DEFAULT</span><span class="token punctuation">]</span> <span class="token keyword">COLLATE</span> collation_name<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre>]]></content>
       
       
       
         <tags>
             
-            <tag> sql mysql </tag>
+            <tag> sql </tag>
+            
+            <tag> mysql </tag>
             
         </tags>
       
