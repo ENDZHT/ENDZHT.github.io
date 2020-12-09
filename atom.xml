@@ -6,7 +6,7 @@
   <link href="https://endzht.github.io/atom.xml" rel="self"/>
   
   <link href="https://endzht.github.io/"/>
-  <updated>2020-11-29T13:36:57.582Z</updated>
+  <updated>2020-12-09T01:06:35.718Z</updated>
   <id>https://endzht.github.io/</id>
   
   <author>
@@ -17,27 +17,29 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>mysql</title>
-    <link href="https://endzht.github.io/2020/11/29/mysql/"/>
-    <id>https://endzht.github.io/2020/11/29/mysql/</id>
-    <published>2020-11-29T13:21:50.000Z</published>
-    <updated>2020-11-29T13:36:57.582Z</updated>
+    <title>黑客攻防技术宝典（web实战篇）</title>
+    <link href="https://endzht.github.io/2020/11/07/hei-ke-gong-fang-ji-zhu-bao-dian-web-shi-zhan-pian/"/>
+    <id>https://endzht.github.io/2020/11/07/hei-ke-gong-fang-ji-zhu-bao-dian-web-shi-zhan-pian/</id>
+    <published>2020-11-07T14:20:50.000Z</published>
+    <updated>2020-12-09T01:06:35.718Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;pre class=&quot;line-numbers language-sql&quot; data-language=&quot;sql&quot;&gt;&lt;code class=&quot;language-sql&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;ALTER&lt;/span&gt; {&lt;span</summary>
+    <summary type="html">&lt;h2 id=&quot;第一章-web-应用程序安全与风险&quot;&gt;&lt;a href=&quot;#第一章-web-应用程序安全与风险&quot; class=&quot;headerlink&quot; title=&quot;第一章 web 应用程序安全与风险&quot;&gt;&lt;/a&gt;第一章 web</summary>
         
       
     
     
     
     
-    <category term="sql" scheme="https://endzht.github.io/tags/sql/"/>
+    <category term="读书笔记" scheme="https://endzht.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="mysql" scheme="https://endzht.github.io/tags/mysql/"/>
+    <category term="黑客攻防技术宝典（web实战篇）" scheme="https://endzht.github.io/tags/%E9%BB%91%E5%AE%A2%E6%94%BB%E9%98%B2%E6%8A%80%E6%9C%AF%E5%AE%9D%E5%85%B8%EF%BC%88web%E5%AE%9E%E6%88%98%E7%AF%87%EF%BC%89/"/>
+    
+    <category term="信安之路" scheme="https://endzht.github.io/tags/%E4%BF%A1%E5%AE%89%E4%B9%8B%E8%B7%AF/"/>
     
   </entry>
   
