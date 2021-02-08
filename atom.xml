@@ -6,7 +6,7 @@
   <link href="https://endzht.github.io/atom.xml" rel="self"/>
   
   <link href="https://endzht.github.io/"/>
-  <updated>2020-12-10T02:26:57.630Z</updated>
+  <updated>2021-02-08T13:23:49.889Z</updated>
   <id>https://endzht.github.io/</id>
   
   <author>
@@ -17,25 +17,624 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>笔记——《黑客攻防技术宝典（web实战篇）》</title>
-    <link href="https://endzht.github.io/booknote/ckii7wh360004x4tx32hj0ghl/hei-ke-gong-fang-ji-zhu-bao-dian-web-shi-zhan-pian/"/>
-    <id>https://endzht.github.io/booknote/ckii7wh360004x4tx32hj0ghl/hei-ke-gong-fang-ji-zhu-bao-dian-web-shi-zhan-pian/</id>
-    <published>2020-11-07T14:20:50.000Z</published>
-    <updated>2020-12-10T02:26:57.630Z</updated>
+    <title>pythontip 100days-day39</title>
+    <link href="https://endzht.github.io/code/python/pythontip-100days-day39/"/>
+    <id>https://endzht.github.io/code/python/pythontip-100days-day39/</id>
+    <published>2021-02-08T13:23:24.000Z</published>
+    <updated>2021-02-08T13:23:49.889Z</updated>
     
     
-    <summary type="html">&lt;p&gt;这是我读过的关于信息安全的读书笔记。&lt;/p&gt;</summary>
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot; title=&quot;题目&quot;&gt;&lt;/a&gt;题目&lt;/h2&gt;&lt;p&gt;已知一个有序序列,请原地删除序列中重复出现的元素,返回删除重复元素后的序列长度 要求时间复杂度O(n),空间复杂度O(1)&lt;/p&gt;
+&lt;h2</summary>
+        
+      
     
     
     
-    <category term="booknote" scheme="https://endzht.github.io/categories/booknote/"/>
+    <category term="Code" scheme="https://endzht.github.io/categories/Code/"/>
+    
+    <category term="python" scheme="https://endzht.github.io/categories/Code/python/"/>
     
     
-    <category term="读书笔记" scheme="https://endzht.github.io/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="python" scheme="https://endzht.github.io/tags/python/"/>
     
-    <category term="黑客攻防技术宝典（web实战篇）" scheme="https://endzht.github.io/tags/%E9%BB%91%E5%AE%A2%E6%94%BB%E9%98%B2%E6%8A%80%E6%9C%AF%E5%AE%9D%E5%85%B8%EF%BC%88web%E5%AE%9E%E6%88%98%E7%AF%87%EF%BC%89/"/>
+    <category term="python days100" scheme="https://endzht.github.io/tags/python-days100/"/>
     
-    <category term="信安之路" scheme="https://endzht.github.io/tags/%E4%BF%A1%E5%AE%89%E4%B9%8B%E8%B7%AF/"/>
+    <category term="pythontip" scheme="https://endzht.github.io/tags/pythontip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pythontip 100days-day38</title>
+    <link href="https://endzht.github.io/code/python/pythontip-100days-day38/"/>
+    <id>https://endzht.github.io/code/python/pythontip-100days-day38/</id>
+    <published>2021-02-08T13:00:46.000Z</published>
+    <updated>2021-02-08T13:01:00.013Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot; title=&quot;题目&quot;&gt;&lt;/a&gt;题目&lt;/h2&gt;&lt;p&gt;有一组数字，从1到n，中减少了一个数，顺序也被打乱，放在一个n-1的数组里，请找出丢失的数字&lt;/p&gt;
+&lt;h2 id=&quot;例子&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://endzht.github.io/categories/Code/"/>
+    
+    <category term="python" scheme="https://endzht.github.io/categories/Code/python/"/>
+    
+    
+    <category term="python" scheme="https://endzht.github.io/tags/python/"/>
+    
+    <category term="python days100" scheme="https://endzht.github.io/tags/python-days100/"/>
+    
+    <category term="pythontip" scheme="https://endzht.github.io/tags/pythontip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pythontip 100days-day37</title>
+    <link href="https://endzht.github.io/code/python/pythontip-100days-day37/"/>
+    <id>https://endzht.github.io/code/python/pythontip-100days-day37/</id>
+    <published>2021-02-08T12:56:56.000Z</published>
+    <updated>2021-02-08T12:58:09.101Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;二进制中1的位数&quot;&gt;&lt;a href=&quot;#二进制中1的位数&quot; class=&quot;headerlink&quot; title=&quot;二进制中1的位数&quot;&gt;&lt;/a&gt;二进制中1的位数&lt;/h1&gt;&lt;p&gt;给定一个整数，请计算二进制中为1的位数&lt;/p&gt;
+&lt;h2 id=&quot;例子&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://endzht.github.io/categories/Code/"/>
+    
+    <category term="python" scheme="https://endzht.github.io/categories/Code/python/"/>
+    
+    
+    <category term="python" scheme="https://endzht.github.io/tags/python/"/>
+    
+    <category term="python days100" scheme="https://endzht.github.io/tags/python-days100/"/>
+    
+    <category term="pythontip" scheme="https://endzht.github.io/tags/pythontip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pythontip 100days-day36</title>
+    <link href="https://endzht.github.io/code/python/pythontip-100days-day36/"/>
+    <id>https://endzht.github.io/code/python/pythontip-100days-day36/</id>
+    <published>2021-02-05T06:25:37.000Z</published>
+    <updated>2021-02-05T06:26:55.875Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;最长上升子序列&quot;&gt;&lt;a href=&quot;#最长上升子序列&quot; class=&quot;headerlink&quot; title=&quot;最长上升子序列&quot;&gt;&lt;/a&gt;最长上升子序列&lt;/h1&gt;&lt;p&gt;一个元素为数值的列表，找到其最长上升子序列的长度。&lt;br&gt;比如 [5, 4, 1, 2, 5,</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://endzht.github.io/categories/Code/"/>
+    
+    <category term="python" scheme="https://endzht.github.io/categories/Code/python/"/>
+    
+    
+    <category term="python" scheme="https://endzht.github.io/tags/python/"/>
+    
+    <category term="python days100" scheme="https://endzht.github.io/tags/python-days100/"/>
+    
+    <category term="pythontip" scheme="https://endzht.github.io/tags/pythontip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>dnslog</title>
+    <link href="https://endzht.github.io/blogs/dnslog/"/>
+    <id>https://endzht.github.io/blogs/dnslog/</id>
+    <published>2021-02-05T05:30:16.000Z</published>
+    <updated>2021-02-05T05:43:39.857Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;python封装dnslog类&quot;&gt;&lt;a href=&quot;#python封装dnslog类&quot; class=&quot;headerlink&quot; title=&quot;python封装dnslog类&quot;&gt;&lt;/a&gt;python封装dnslog类&lt;/h3&gt;&lt;pre</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://endzht.github.io/categories/Code/"/>
+    
+    <category term="python" scheme="https://endzht.github.io/categories/Code/python/"/>
+    
+    <category term="blogs" scheme="https://endzht.github.io/categories/blogs/"/>
+    
+    
+    <category term="python" scheme="https://endzht.github.io/tags/python/"/>
+    
+    <category term="dnslog" scheme="https://endzht.github.io/tags/dnslog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pythontip 100days-day35</title>
+    <link href="https://endzht.github.io/code/python/pythontip-100days-day35/"/>
+    <id>https://endzht.github.io/code/python/pythontip-100days-day35/</id>
+    <published>2021-02-04T01:36:23.000Z</published>
+    <updated>2021-02-04T01:37:36.262Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;和最接近的分隔位置&quot;&gt;&lt;a href=&quot;#和最接近的分隔位置&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://endzht.github.io/categories/Code/"/>
+    
+    <category term="python" scheme="https://endzht.github.io/categories/Code/python/"/>
+    
+    
+    <category term="python" scheme="https://endzht.github.io/tags/python/"/>
+    
+    <category term="python days100" scheme="https://endzht.github.io/tags/python-days100/"/>
+    
+    <category term="pythontip" scheme="https://endzht.github.io/tags/pythontip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java反序列化--weblogic</title>
+    <link href="https://endzht.github.io/websecurity/java-fan-xu-lie-hua-weblogic/"/>
+    <id>https://endzht.github.io/websecurity/java-fan-xu-lie-hua-weblogic/</id>
+    <published>2021-02-03T07:07:23.000Z</published>
+    <updated>2021-02-03T08:31:48.737Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;一、搭建weblogic服务&quot;&gt;&lt;a href=&quot;#一、搭建weblogic服务&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="websecurity" scheme="https://endzht.github.io/categories/websecurity/"/>
+    
+    
+    <category term="web security" scheme="https://endzht.github.io/tags/web-security/"/>
+    
+    <category term="java 反序列化" scheme="https://endzht.github.io/tags/java-%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/"/>
+    
+    <category term="weblogic" scheme="https://endzht.github.io/tags/weblogic/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pythontip 100days-day34</title>
+    <link href="https://endzht.github.io/code/python/pythontip-100days-day34/"/>
+    <id>https://endzht.github.io/code/python/pythontip-100days-day34/</id>
+    <published>2021-02-03T02:49:04.000Z</published>
+    <updated>2021-02-03T02:50:41.878Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;移动数组&quot;&gt;&lt;a href=&quot;#移动数组&quot; class=&quot;headerlink&quot; title=&quot;移动数组&quot;&gt;&lt;/a&gt;移动数组&lt;/h1&gt;&lt;p&gt;给定一个数组，将数组中的元素向右移动 k 个位置，其中 k 是非负数，要求使用空间复杂度为 O(1)</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://endzht.github.io/categories/Code/"/>
+    
+    <category term="python" scheme="https://endzht.github.io/categories/Code/python/"/>
+    
+    
+    <category term="python" scheme="https://endzht.github.io/tags/python/"/>
+    
+    <category term="python days100" scheme="https://endzht.github.io/tags/python-days100/"/>
+    
+    <category term="pythontip" scheme="https://endzht.github.io/tags/pythontip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pythontip 100days-day33</title>
+    <link href="https://endzht.github.io/code/python/pythontip-100days-day33/"/>
+    <id>https://endzht.github.io/code/python/pythontip-100days-day33/</id>
+    <published>2021-02-02T08:45:25.000Z</published>
+    <updated>2021-02-02T08:46:11.958Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;实现字符串find&quot;&gt;&lt;a href=&quot;#实现字符串find&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://endzht.github.io/categories/Code/"/>
+    
+    <category term="python" scheme="https://endzht.github.io/categories/Code/python/"/>
+    
+    
+    <category term="python" scheme="https://endzht.github.io/tags/python/"/>
+    
+    <category term="python days100" scheme="https://endzht.github.io/tags/python-days100/"/>
+    
+    <category term="pythontip" scheme="https://endzht.github.io/tags/pythontip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>算法--最大公约数</title>
+    <link href="https://endzht.github.io/blogs/suan-fa-zui-da-gong-yue-shu/"/>
+    <id>https://endzht.github.io/blogs/suan-fa-zui-da-gong-yue-shu/</id>
+    <published>2021-02-01T12:42:31.000Z</published>
+    <updated>2021-02-01T12:44:15.239Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;最大公约数的定义&quot;&gt;&lt;a href=&quot;#最大公约数的定义&quot; class=&quot;headerlink&quot; title=&quot;最大公约数的定义&quot;&gt;&lt;/a&gt;最大公约数的定义&lt;/h3&gt;&lt;p&gt;最大公因数，也称最大&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="blogs" scheme="https://endzht.github.io/categories/blogs/"/>
+    
+    
+    <category term="算法" scheme="https://endzht.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="最大公约数" scheme="https://endzht.github.io/tags/%E6%9C%80%E5%A4%A7%E5%85%AC%E7%BA%A6%E6%95%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pythontip 100days-day32</title>
+    <link href="https://endzht.github.io/code/python/pythontip-100days-day32/"/>
+    <id>https://endzht.github.io/code/python/pythontip-100days-day32/</id>
+    <published>2021-02-01T03:16:41.000Z</published>
+    <updated>2021-02-01T03:17:12.659Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot; title=&quot;题目&quot;&gt;&lt;/a&gt;题目&lt;/h2&gt;&lt;p&gt;实现函数is_startswith，如果字符串source是以substr开头的，则函数返回True,反之返回False&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://endzht.github.io/categories/Code/"/>
+    
+    <category term="python" scheme="https://endzht.github.io/categories/Code/python/"/>
+    
+    
+    <category term="python" scheme="https://endzht.github.io/tags/python/"/>
+    
+    <category term="python days100" scheme="https://endzht.github.io/tags/python-days100/"/>
+    
+    <category term="pythontip" scheme="https://endzht.github.io/tags/pythontip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pythontip 100days-day31</title>
+    <link href="https://endzht.github.io/code/python/pythontip-100days-day31/"/>
+    <id>https://endzht.github.io/code/python/pythontip-100days-day31/</id>
+    <published>2021-01-31T10:45:38.000Z</published>
+    <updated>2021-01-31T10:46:01.428Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;实现函数is-startswith&quot;&gt;&lt;a href=&quot;#实现函数is-startswith&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://endzht.github.io/categories/Code/"/>
+    
+    <category term="python" scheme="https://endzht.github.io/categories/Code/python/"/>
+    
+    
+    <category term="python" scheme="https://endzht.github.io/tags/python/"/>
+    
+    <category term="python days100" scheme="https://endzht.github.io/tags/python-days100/"/>
+    
+    <category term="pythontip" scheme="https://endzht.github.io/tags/pythontip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pythontip 100days-day30</title>
+    <link href="https://endzht.github.io/code/python/pythontip-100days-day30/"/>
+    <id>https://endzht.github.io/code/python/pythontip-100days-day30/</id>
+    <published>2021-01-31T09:50:10.000Z</published>
+    <updated>2021-01-31T10:39:43.539Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot; title=&quot;题目&quot;&gt;&lt;/a&gt;题目&lt;/h2&gt;&lt;p&gt;珂珂喜欢吃香蕉。这里有 N 堆香蕉，第 i 堆中有 piles[i] 根香蕉。警卫已经离开了，将在 H</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://endzht.github.io/categories/Code/"/>
+    
+    <category term="python" scheme="https://endzht.github.io/categories/Code/python/"/>
+    
+    
+    <category term="python" scheme="https://endzht.github.io/tags/python/"/>
+    
+    <category term="python days100" scheme="https://endzht.github.io/tags/python-days100/"/>
+    
+    <category term="pythontip" scheme="https://endzht.github.io/tags/pythontip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pythontip 100days-day29</title>
+    <link href="https://endzht.github.io/code/python/pythontip-100days-day29/"/>
+    <id>https://endzht.github.io/code/python/pythontip-100days-day29/</id>
+    <published>2021-01-31T09:46:42.000Z</published>
+    <updated>2021-01-31T09:47:31.003Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot; title=&quot;题目&quot;&gt;&lt;/a&gt;题目&lt;/h2&gt;&lt;p&gt;给定一个非空整数数组，除了某个元素只出现一次以外，其余每个元素均出现两次。找出那个只出现了一次的元素。&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://endzht.github.io/categories/Code/"/>
+    
+    <category term="python" scheme="https://endzht.github.io/categories/Code/python/"/>
+    
+    
+    <category term="python" scheme="https://endzht.github.io/tags/python/"/>
+    
+    <category term="python days100" scheme="https://endzht.github.io/tags/python-days100/"/>
+    
+    <category term="pythontip" scheme="https://endzht.github.io/tags/pythontip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pythontip 100days-day28</title>
+    <link href="https://endzht.github.io/code/python/pythontip-100days-day28/"/>
+    <id>https://endzht.github.io/code/python/pythontip-100days-day28/</id>
+    <published>2021-01-31T09:25:15.000Z</published>
+    <updated>2021-01-31T09:44:35.262Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot; title=&quot;题目&quot;&gt;&lt;/a&gt;题目&lt;/h2&gt;&lt;p&gt;给定一个 n × n 的二维矩阵,将其顺时针旋转90度&lt;/p&gt;
+&lt;h2 id=&quot;例子&quot;&gt;&lt;a href=&quot;#例子&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://endzht.github.io/categories/Code/"/>
+    
+    <category term="python" scheme="https://endzht.github.io/categories/Code/python/"/>
+    
+    
+    <category term="python" scheme="https://endzht.github.io/tags/python/"/>
+    
+    <category term="python days100" scheme="https://endzht.github.io/tags/python-days100/"/>
+    
+    <category term="pythontip" scheme="https://endzht.github.io/tags/pythontip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pythontip 100days-day27</title>
+    <link href="https://endzht.github.io/code/python/pythontip-100days-day27/"/>
+    <id>https://endzht.github.io/code/python/pythontip-100days-day27/</id>
+    <published>2021-01-31T08:57:23.000Z</published>
+    <updated>2021-01-31T08:57:45.238Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot; title=&quot;题目&quot;&gt;&lt;/a&gt;题目&lt;/h2&gt;&lt;p&gt;给你一个字符串 &lt;code&gt;s&lt;/code&gt;，找到 &lt;code&gt;s&lt;/code&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://endzht.github.io/categories/Code/"/>
+    
+    <category term="python" scheme="https://endzht.github.io/categories/Code/python/"/>
+    
+    
+    <category term="python" scheme="https://endzht.github.io/tags/python/"/>
+    
+    <category term="python days100" scheme="https://endzht.github.io/tags/python-days100/"/>
+    
+    <category term="pythontip" scheme="https://endzht.github.io/tags/pythontip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pythontip 100days-day26</title>
+    <link href="https://endzht.github.io/code/python/pythontip-100days-day26/"/>
+    <id>https://endzht.github.io/code/python/pythontip-100days-day26/</id>
+    <published>2021-01-31T08:41:01.000Z</published>
+    <updated>2021-01-31T08:57:12.864Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://endzht.github.io/categories/Code/"/>
+    
+    <category term="python" scheme="https://endzht.github.io/categories/Code/python/"/>
+    
+    
+    <category term="python" scheme="https://endzht.github.io/tags/python/"/>
+    
+    <category term="python days100" scheme="https://endzht.github.io/tags/python-days100/"/>
+    
+    <category term="pythontip" scheme="https://endzht.github.io/tags/pythontip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pythontip 100days-day25</title>
+    <link href="https://endzht.github.io/code/python/pythontip-100days-day25/"/>
+    <id>https://endzht.github.io/code/python/pythontip-100days-day25/</id>
+    <published>2021-01-31T08:35:17.000Z</published>
+    <updated>2021-01-31T08:35:28.807Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot; title=&quot;题目&quot;&gt;&lt;/a&gt;题目&lt;/h2&gt;&lt;p&gt;给出一个&lt;strong&gt;无重叠的&lt;/strong&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://endzht.github.io/categories/Code/"/>
+    
+    <category term="python" scheme="https://endzht.github.io/categories/Code/python/"/>
+    
+    
+    <category term="python" scheme="https://endzht.github.io/tags/python/"/>
+    
+    <category term="python days100" scheme="https://endzht.github.io/tags/python-days100/"/>
+    
+    <category term="pythontip" scheme="https://endzht.github.io/tags/pythontip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pythontip 100days-day24</title>
+    <link href="https://endzht.github.io/code/python/pythontip-100days-day24/"/>
+    <id>https://endzht.github.io/code/python/pythontip-100days-day24/</id>
+    <published>2021-01-31T08:14:49.000Z</published>
+    <updated>2021-01-31T08:15:22.908Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot; title=&quot;题目&quot;&gt;&lt;/a&gt;题目&lt;/h2&gt;&lt;p&gt;给定一个没有&lt;strong&gt;重复&lt;/strong&gt;数字的序列，返回其所有可能的全排列。&lt;/p&gt;
+&lt;h2 id=&quot;例子&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://endzht.github.io/categories/Code/"/>
+    
+    <category term="python" scheme="https://endzht.github.io/categories/Code/python/"/>
+    
+    
+    <category term="python" scheme="https://endzht.github.io/tags/python/"/>
+    
+    <category term="python days100" scheme="https://endzht.github.io/tags/python-days100/"/>
+    
+    <category term="pythontip" scheme="https://endzht.github.io/tags/pythontip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pythontip 100days-day23</title>
+    <link href="https://endzht.github.io/code/python/pythontip-100days-day23/"/>
+    <id>https://endzht.github.io/code/python/pythontip-100days-day23/</id>
+    <published>2021-01-31T07:52:29.000Z</published>
+    <updated>2021-01-31T07:52:42.576Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;题目&quot;&gt;&lt;a href=&quot;#题目&quot; class=&quot;headerlink&quot; title=&quot;题目&quot;&gt;&lt;/a&gt;题目&lt;/h2&gt;&lt;p&gt;给出一个区间的集合，请合并所有重叠的区间。&lt;/p&gt;
+&lt;h2 id=&quot;例子&quot;&gt;&lt;a href=&quot;#例子&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Code" scheme="https://endzht.github.io/categories/Code/"/>
+    
+    <category term="python" scheme="https://endzht.github.io/categories/Code/python/"/>
+    
+    
+    <category term="python" scheme="https://endzht.github.io/tags/python/"/>
+    
+    <category term="python days100" scheme="https://endzht.github.io/tags/python-days100/"/>
+    
+    <category term="pythontip" scheme="https://endzht.github.io/tags/pythontip/"/>
     
   </entry>
   
